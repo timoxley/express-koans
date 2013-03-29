@@ -1,0 +1,4 @@
+--reporter min
+--require common
+--bail
+--timeout 999999
